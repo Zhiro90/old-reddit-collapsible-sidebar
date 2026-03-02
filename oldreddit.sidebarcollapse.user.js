@@ -1,18 +1,20 @@
 // ==UserScript==
 // @name        Collapsible Sidebar for old.reddit
 // @name:es     Barra Lateral Colapsable para old.reddit
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/Zhiro90
 // @match       https://old.reddit.com/*
 // @match       https://www.reddit.com/*
 // @grant       none
 // @version     1.2
-// @author      -
+// @author      Zhiro90
 // @description Toggles sidebar. Expands main content.
 // @description:es Añade un botón en la parte superior derecha que colapsa la barra lateral y fuerza al contenido principal a ocupar el 100% del ancho disponible.
 // @license     MIT
 // @run-at      document-end
-// @downloadURL https://update.greasyfork.org/scripts/558189/Collapsible%20Sidebar%20for%20oldreddit.user.js
-// @updateURL https://update.greasyfork.org/scripts/558189/Collapsible%20Sidebar%20for%20oldreddit.meta.js
+// @homepageURL https://github.com/Zhiro90/old-reddit-collapsible-sidebar
+// @supportURL  https://github.com/Zhiro90/old-reddit-collapsible-sidebar/issues
+// @downloadURL https://raw.githubusercontent.com/Zhiro90/old-reddit-collapsible-sidebar/main/oldreddit.sidebarcollapse.user.js
+// @updateURL   https://raw.githubusercontent.com/Zhiro90/old-reddit-collapsible-sidebar/main/oldreddit.sidebarcollapse.user.js
 // ==/UserScript==
 
 (function() {
